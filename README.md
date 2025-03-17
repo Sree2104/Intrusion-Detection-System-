@@ -1,5 +1,4 @@
-# Intrusion-Detection-System-
-# Design and Implementation of a DDoS Intrusion Detection System using Bi-LSTM
+# Design and Implementation of Intrusion Detection System using Bi-LSTM
 
 ## 📌 Project Overview
 This project presents the design and implementation of a Distributional Denial of Service (DDoS) Intrusion Detection System (IDS) using a Bidirectional Long Short-Term Memory (Bi-LSTM) model. The system is designed to identify and classify malicious traffic patterns in network data with high accuracy and low false alarm rates.
