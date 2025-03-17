@@ -4,7 +4,7 @@
 This project presents the design and implementation of a Distributional Denial of Service (DDoS) Intrusion Detection System (IDS) using a Bidirectional Long Short-Term Memory (Bi-LSTM) model. The system is designed to identify and classify malicious traffic patterns in network data with high accuracy and low false alarm rates.
 
 ## 🚀 Motivation
-DDoS attacks are one of the most severe threats to network security, leading to network congestion and service disruption. Existing detection methods often fail to handle high-volume, complex attack patterns. This project leverages the power of Bi-LSTM models to capture sequential dependencies in network traffic and improve detection performance.
+Cyber attacks are one of the most severe threats to network security, leading to network congestion and service disruption. Existing detection methods often fail to handle high-volume, complex attack patterns. This project leverages the power of Bi-LSTM models to capture sequential dependencies in network traffic and improve detection performance.
 
 ---
 
